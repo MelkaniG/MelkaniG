@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on  some ML research projects using generative models<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning data analysis tools and doing some cool projects with it.<br>💬 Ask me about data ML/DL models, HPC<br>⚡ Fun fact that I was a Cinematographer before doing this<br>
+🔭 I’m currently working on  some ML research projects using generative models<br>
+👯I’m looking to collaborate on solving Business problems with AI<br>
+<!--🤝 I’m looking for help with <br> -->
+🌱 I’m currently learning data analysis tools and doing some cool projects with it<br>
+💬 Ask me about data ML/DL models, HPC<br>
+⚡ Fun fact that I was a Cinematographer before doing this<br>
 
 
 ## 🌐 Socials:
